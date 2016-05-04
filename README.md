@@ -1,4 +1,4 @@
 # hello-world
 test
 
-i am a student
+i am a student.
